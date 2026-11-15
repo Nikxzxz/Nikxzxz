@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hi, Im Nikolas 👋
 
 ### 👤 Who I Am
