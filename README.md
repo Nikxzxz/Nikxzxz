@@ -15,7 +15,7 @@ A Computing student working toward a **QQI Level 5** award, preparing for **BSc 
 ### 🛠️ Tools I Use
 * **Languages:** Java, Bash (learning)
 * **Editor & Version Control:** VS Code, Git, GitHub
-* **Operating Systems:** Windows, Linux (Ubuntu / Kali)
+* **Operating Systems:** Windows, Linux (Ubuntu / Mint)
 * **Learning Platforms:** TryHackMe, OverTheWire, MOOC.fi
 
 ---
