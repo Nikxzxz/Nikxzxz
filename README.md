@@ -1,16 +1,26 @@
 ## Hi there 👋
 
-<!--
-**Nikxzxz/Nikxzxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, Im Nikolas 👋
 
-Here are some ideas to get you started:
+### 👤 Who I Am
+A Computing student working toward a **QQI Level 5** award, preparing for **BSc (Hons) Cybersecurity and IT Forensics** at the **University of Limerick (UL)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 What I'm Working On
+* **Java Programming:** Building console applications and learning Object-Oriented Programming (OOP) through coursework.
+* **Networking & Linux:** Practicing command-line navigation and core networking concepts on **TryHackMe** and **OverTheWire**.
+* **Mathematics:** Strengthening Level 5 maths skills for university entry.
+
+---
+
+### 🛠️ Tools I Use
+* **Languages:** Java, Bash (learning)
+* **Editor & Version Control:** VS Code, Git, GitHub
+* **Operating Systems:** Windows, Linux (Ubuntu / Kali)
+* **Learning Platforms:** TryHackMe, OverTheWire, MOOC.fi
+
+---
+
+### 📫 Contact
+* Reach out via **GitHub Issues** on any of my repositories if you'd like to connect.
